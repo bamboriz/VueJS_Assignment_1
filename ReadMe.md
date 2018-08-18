@@ -1,0 +1,1 @@
+Write an app.js file and 1 component file. In the app.js file, include the component file and display it in the template tags. Pass props to the component using a for loop to send the component only one index item at a time for display. The prop should be an array of 10 different names. 
